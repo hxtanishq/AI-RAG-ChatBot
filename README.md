@@ -15,8 +15,8 @@ This chatbot combines **Retrieval-Augmented Generation (RAG)** with AI to answer
 ### 🚀 Installation Steps
 1. **Clone the repository:**  
    ```sh
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/hxtanishq/AI-RAG-ChatBot.git
+   cd AI-RAG-ChatBot
    ```
 2. **Create and activate a virtual environment** (optional but recommended):
    ```sh
