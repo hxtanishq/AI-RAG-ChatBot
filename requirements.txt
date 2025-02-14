@@ -1,0 +1,8 @@
+streamlit
+langchain_community
+langchain_groq
+numpy
+scikit-learn
+nltk
+requests
+python-dotenv
