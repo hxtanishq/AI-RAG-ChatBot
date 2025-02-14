@@ -60,7 +60,7 @@ This chatbot combines **Retrieval-Augmented Generation (RAG)** with AI to answer
 ---
 
 ## 🖼️ Sample Screenshot
-![Chatbot Screenshot](AI-RAG-ChatBot/image.png)  
+![Chatbot Screenshot](image.png)  
 _A quick look at the chatbot in action!_
 
 ---
